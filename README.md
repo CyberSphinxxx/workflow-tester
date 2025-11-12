@@ -1,4 +1,4 @@
-# Log Analyzer
+# Workflow Tester
 
 A lightweight utility designed for testing GitHub workflow automation and simulated log behavior.
 
