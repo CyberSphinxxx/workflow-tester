@@ -2,7 +2,7 @@ name: Auto Committer
 
 on:
   schedule:
-    - cron: "0 */2 * * *"  # Runs every 2 hours
+    - cron: "0 */2 * * 1-5"  # Runs every 2 hours, Monday to Friday
   workflow_dispatch:
 
 permissions:
